@@ -31,8 +31,8 @@
 * POSSIBILITY OF SUCH DAMAGE.
 *
 * @file       bme69x.h
-* @date       2025-07-15
-* @version    v1.0.3
+* @date       2026-01-30
+* @version    v1.1.0
 *
 */
 
